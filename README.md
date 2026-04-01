@@ -31,7 +31,7 @@ This project focuses on analyzing Blinkit's sales performance, customer satisfac
 - Business-driven insights
 
  .Dashboard Preview
-[(Add your screenshots here)](https://github.com/harsh10911/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
+(https://github.com/harsh10911/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
 
  .Project Files
 - Blinkit Dataset
